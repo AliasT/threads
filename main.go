@@ -4,10 +4,6 @@ import (
 	"time"
 )
 
-func run() {
-
-}
-
 func main() {
 	ch := make(chan int, 3) // buffered
 
